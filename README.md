@@ -42,6 +42,7 @@ The primary objective of this orchestration is to streamline the forensic invest
 4. **Output Organization:** All individual CSV outputs are moved to the `Tool_Outputs` folder.
 
 ### 4. Directory Structure
+
 ```
 Forensic-Artifact-Review-Orchestration/
 ├── Forensic_Evidence/            # User-provided artifacts (Registry, JumpLists, MFT)
