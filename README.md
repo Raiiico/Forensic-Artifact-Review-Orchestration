@@ -43,6 +43,7 @@ The primary objective of this orchestration is to streamline the forensic invest
 
 ### 4. Directory Structure
 
+```
 Forensic-Artifact-Review-Orchestration/
 ├── Forensic_Evidence/            # User-provided artifacts (Registry, JumpLists, MFT)
 ├── Forensics_Results/            # Output folder for results and reports
@@ -52,6 +53,7 @@ Forensic-Artifact-Review-Orchestration/
 ├── UserActivity.reb               # RECmd batch file
 ├── ez_orchestrator.py             # Main Python script
 └── README.md                      # Project description and usage
+```
 
 ### 5. Execution Steps
 1. Place forensic artifacts in the `Forensic_Evidence` folder.
